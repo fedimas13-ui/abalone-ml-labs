@@ -1,0 +1,10 @@
+{
+    "dataset": "Abalone",
+    "rows": 4177,
+    "columns": 9,
+    "missing_values": 0,
+    "duplicates": 0,
+    "zero_height": 2,
+    "height_above_0_5": 2,
+    "rings_mean": 9.933684462532918
+}
