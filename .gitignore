@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.key
+
+# Large datasets and model files
+data/raw/
+data/processed/
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.h5
+
+# System files
+.DS_Store
+Thumbs.db
