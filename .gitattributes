@@ -1,0 +1,23 @@
+# Automatically normalize text files
+* text=auto
+
+# Python and project files
+*.py text eol=lf
+*.md text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.toml text eol=lf
+
+# Jupyter notebooks
+*.ipynb text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+*.zip binary
+*.joblib binary
+*.pkl binary
